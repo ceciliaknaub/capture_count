@@ -8,5 +8,5 @@ A notebook to calculate the total number of times a url has been archived in the
 Clone the repository or download the repository to your local drive. 
 
 ## Execution
-Run the notebook in your preferred notebook environment, such as Jupyter Notebook, VS Code, or Google Colab. 
+Run the notebook in your preferred notebook environment, such as Jupyter Notebook or VS Code. 
 
